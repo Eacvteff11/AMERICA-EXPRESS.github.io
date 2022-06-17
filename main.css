@@ -1,0 +1,73 @@
+.menu{
+    background-color: #285e28;
+    color: white;
+}
+.brand{
+    width: 50px;
+    height: 50px;
+}
+body{
+
+    font-family: 'Comfortaa', cursive;
+    background-color: #fbfcea;
+}
+footer{
+    background-color: #132a13;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+
+}
+.derechos{
+    background-color: #000000;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+footer a:hover{
+    color: #285e28;
+}
+
+
+.viaje{
+    border-radius: 10px;
+    transition: all 0.6;
+    
+}
+
+.viaje:hover{
+    transform: scale(1.1);
+    
+}
+
+.beneficios{
+    transition: all 0.6;
+}
+
+.beneficios:hover{
+    transform: scale(1.1);
+}
+
+.comi{
+    background-image: url(../imagenes/encomienda.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fbfcea;
+}
+
+.especial{
+    text-align-last: left;
+}
+.vip{
+    text-align-last: left;
+}
+.supervip{
+    text-align-last: left;
+}
+.economico{
+    text-align-last: left;
+}
+
